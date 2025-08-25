@@ -7,7 +7,7 @@ __pycache__/
 .build/
 dist/
 build/
-
+.DS_Store
 
 .venv/
 venv/
